@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219377100267",
+    "firebase_url": "https://diverso-a210a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "diverso-a210a",
+    "storage_bucket": "diverso-a210a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219377100267:android:f54dc0e155cc9a7db7e5ae",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219377100267-17nj7d6s5gncfv1gr5bqj31v6p7nffva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1R8pMvzLCIp7ljoJYSSMOQFxm2zeR4N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219377100267-17nj7d6s5gncfv1gr5bqj31v6p7nffva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219377100267-lmecf888tkr7i8o7n35ahbn55v74a737.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
